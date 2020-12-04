@@ -1,9 +1,6 @@
 # Hi there, I'm [Yash!](https://dextel2.surge.sh) 👋
 
 
-<a href="https://twitter.com/KarankeYash">
-  <img align="left" alt="Yash Karanke | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
 ### ![Yash Github Stats](https://github-readme-stats.vercel.app/api?username=dextel2&theme=radical&show_icons=true&hide_border=true)
 
