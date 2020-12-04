@@ -15,8 +15,6 @@
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&link=https://github.com/dextel2)](https://github.com/dextel2)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=nodejs&link=https://github.com/dextel2)](https://github.com/dextel2)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextel2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
