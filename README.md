@@ -24,5 +24,5 @@ No Activity tracked this Week
 ## Language statistics...
 
 <div style="text-align:center">
- <img src="https://wakatime.com/share/@efc4928d-c420-4b31-a817-99b0e6502a8b/efacbe62-24e3-4478-b27e-d69988688fd5.png" />
+ <figure><embed src="https://wakatime.com/share/@efc4928d-c420-4b31-a817-99b0e6502a8b/f506495b-e2d1-437a-ad83-2fef8a4a8a89.svg"></embed></figure>
 </div>
