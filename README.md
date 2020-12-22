@@ -15,6 +15,8 @@
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&link=https://github.com/dextel2)](https://github.com/dextel2)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=nodejs&link=https://github.com/dextel2)](https://github.com/dextel2)
  
+### Language statistics...
+
 <!--START_SECTION:waka-->
 ```text
 JSON         45 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 % 
@@ -24,9 +26,3 @@ HTML         21 mins         ███▓░░░░░░░░░░░░░
 Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 ```
 <!--END_SECTION:waka-->
-
-## Language statistics...
-
-<div style="text-align:center">
- <figure><embed src="https://wakatime.com/share/@efc4928d-c420-4b31-a817-99b0e6502a8b/f506495b-e2d1-437a-ad83-2fef8a4a8a89.svg"></embed></figure>
-</div>
