@@ -43,4 +43,11 @@
 ### Language statistics...
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 31 mins    ██████████▓░░░░░░░░░░░░░░   43.13 % 
+JSON         45 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 % 
+HTML         24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Markdown     22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+TypeScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+```
 <!--END_SECTION:waka-->
