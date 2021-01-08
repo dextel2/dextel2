@@ -51,3 +51,5 @@ CSS          1 hr 6 mins     ▓░░░░░░░░░░░░░░░░
 JSON         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 <!--END_SECTION:waka-->
+
+![Metrics](https://metrics.lecoq.io/dextel2?template=classic&languages=1&followup=1&posts=1&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=5&posts.source=dev.to&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
