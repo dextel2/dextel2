@@ -44,11 +44,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript            31 hrs 11 mins  ███████████████████████▒░   93.45 % 
-JSON                  1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-HTML                  12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Sublime Text Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Markdown              9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JavaScript            35 hrs 27 mins  ███████████████████████▒░   92.87 % 
+TypeScript            1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+JSON                  58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Sublime Text Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Markdown              9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 
