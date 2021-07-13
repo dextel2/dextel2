@@ -44,10 +44,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript      4 hrs 7 mins    ████████████▒░░░░░░░░░░░░   48.70 % 
-Other           4 hrs 5 mins    ████████████░░░░░░░░░░░░░   48.36 % 
-JSON            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Apache Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other           4 hrs 5 mins    ████████████████░░░░░░░░░   63.94 % 
+JavaScript      2 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   33.55 % 
+JSON            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Apache Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
 
