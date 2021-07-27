@@ -37,7 +37,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/dextel2)](https://github.com/dextel2) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/dextel2)](https://github.com/dextel2)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/dextel2)](https://github.com/dextel2) 
-[![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&link=https://github.com/dextel2)](https://github.com/dextel2)
+[![Angular](https://img.shields.io/badge/-Reactjs-black?style=flat&logo=react&link=https://github.com/dextel2)](https://github.com/dextel2)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=nodejs&link=https://github.com/dextel2)](https://github.com/dextel2)
  
 ### Language statistics...
