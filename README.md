@@ -27,11 +27,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
-
+                                                                                                                           
 ### ![Yash Github Stats](https://github-readme-stats.vercel.app/api?username=dextel2&theme=radical&show_icons=true&hide_border=true)
 
 ### ![Languages Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dextel2&layout=compact&theme=radical&show_icons=true&hide_border=true)
 
+### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dextel2&theme=neon-dark&hide_border=true&currStreakLabel=DD2727)](https://git.io/streak-stats)
+
+                                                                                                                                                 
+                                                                                                                                                 
 ### Technologies used  :construction:: 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/dextel2)](https://github.com/dextel2) 
