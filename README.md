@@ -32,7 +32,6 @@
 
 ### ![Languages Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dextel2&layout=compact&theme=radical&show_icons=true&hide_border=true)
 
-### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dextel2&theme=neon-dark&hide_border=true&currStreakLabel=DD2727)](https://git.io/streak-stats)
 
                                                                                                                                                  
                                                                                                                                                  
