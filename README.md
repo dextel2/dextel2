@@ -57,3 +57,6 @@ Go           22 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/dextel2?template=classic&languages=1&followup=1&posts=1&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=5&posts.source=dev.to&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
+
+### All time Coding Hours                                                                                                                                                 
+[![wakatime](https://wakatime.com/badge/user/efc4928d-c420-4b31-a817-99b0e6502a8b.svg)](https://wakatime.com/@efc4928d-c420-4b31-a817-99b0e6502a8b)
