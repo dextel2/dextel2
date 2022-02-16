@@ -47,6 +47,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 15 hrs 24 mins
+
 PHP          8 hrs 18 mins   █████████████▒░░░░░░░░░░░   53.94 % 
 JavaScript   6 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   39.19 % 
 INI          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
