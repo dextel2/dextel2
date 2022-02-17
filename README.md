@@ -47,13 +47,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 15 hrs 24 mins
+Total: 15 hrs 38 mins
 
-PHP          8 hrs 18 mins   █████████████▒░░░░░░░░░░░   53.94 % 
-JavaScript   6 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   39.19 % 
-INI          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+PHP             8 hrs 19 mins   █████████████▒░░░░░░░░░░░   53.05 % 
+JavaScript      6 hrs 24 mins   ██████████▒░░░░░░░░░░░░░░   40.79 % 
+HTML            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+LESS            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Apache Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
 
