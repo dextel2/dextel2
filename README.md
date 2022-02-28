@@ -46,13 +46,13 @@
 ### Language statistics...
 
 <!--START_SECTION:waka-->
+
 ```text
-PHP          19 hrs 44 mins  █████████████████░░░░░░░░   68.03 % 
-JavaScript   7 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-CSS          46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Python       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-SQL          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+PHP             34 hrs 11 mins  ██████████████████████░░░   87.86 %
+JavaScript      2 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Other           39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/dextel2?template=classic&languages=1&followup=1&posts=1&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=5&posts.source=dev.to&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
