@@ -6,12 +6,7 @@
 <a href="https://www.linkedin.com/in/yash-karanke-software-engineer/">
   <img align="left" alt="Yash's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31gtbvnky7ycrlj7s2wlsiqv52sa?si=gzODpPFyRcqrdRBNKlqmGw">
-  <img align="left" alt="Yash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/MonkeyMorningStar666">
-  <img align="left" alt="Yash's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dextel2.dextel2)
 
