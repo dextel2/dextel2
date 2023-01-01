@@ -1,20 +1,17 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Waka Readme Karanke Custom
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+name: Update gist with WakaTime stats
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
     - cron: "0 0 * * *"
-
+  # Manual triggers with workflow_dispatch
+  workflow_dispatch:
 jobs:
-  update-readme:
-    name: Update this repo's README
+  update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrects.METRICS_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
