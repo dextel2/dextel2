@@ -35,7 +35,17 @@
  
 ### Language statistics...
 
-<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   5 hrs 34 mins   ████████████████▒░░░░░░░░   65.21 %
+Other        1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Java         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+SQL          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
