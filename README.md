@@ -35,7 +35,7 @@
  
 ### Language statistics...
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
 
 
 
