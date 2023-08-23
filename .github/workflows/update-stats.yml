@@ -23,7 +23,7 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics ⚡# optional
+          COMMIT_MESSAGE: The stats are updated, master ⚡! I live to serve!
           TARGET_BRANCH: main # optional
           COMMITTER_NAME: Yash Karanke # optional
           COMMITTER_EMAIL: dex.papa@gmail.com # optional
