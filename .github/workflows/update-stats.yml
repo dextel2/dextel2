@@ -1,18 +1,32 @@
-name: Work Stats Readme
+name: Waka Readme
 
 on:
+  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS : ⣀⣄⣤⣦⣶⣷⣿
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics ⚡# optional
+          TARGET_BRANCH: main # optional
+          COMMITTER_NAME: Yash Karanke # optional
+          COMMITTER_EMAIL: dex.papa@gmail.com # optional
+          AUTHOR_NAME: Yash Karanke # optional
+          AUTHOR_EMAIL: dex.papa@gmail.com # optional
+          # you can populate email-id with secretes instead
