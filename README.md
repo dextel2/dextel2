@@ -1,6 +1,13 @@
 # Hi there, I'm [Yash!](https://dextel2.surge.sh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
+**About me**
+
+- 💼 Software Engineer at [Imriel](https://imriel.com/
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/dextel2/dextel2/issues)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dextel2.dextel2)
