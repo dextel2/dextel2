@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 Software Engineer at [Imriel](https://imriel.com/
+- 💼 Software Engineer at [Imriel](https://imriel.com/)
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
