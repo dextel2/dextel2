@@ -14,19 +14,19 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: -> 
+          CODE_LANG: rust 
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
+          SHOW_MASKED_TIME: false 
+          STOP_AT_OTHER: true 
           ### commit
           COMMIT_MESSAGE: The stats are updated, master ⚡! I live to serve!
-          TARGET_BRANCH: main # optional
-          COMMITTER_NAME: Yash Karanke # optional
-          COMMITTER_EMAIL: dex.papa@gmail.com # optional
-          AUTHOR_NAME: Yash Karanke # optional
-          AUTHOR_EMAIL: dex.papa@gmail.com # optional
+          TARGET_BRANCH: main 
+          COMMITTER_NAME: Yash Karanke 
+          COMMITTER_EMAIL: dex.papa@gmail.com 
+          AUTHOR_NAME: Yash Karanke 
+          AUTHOR_EMAIL: dex.papa@gmail.com 
           # you can populate email-id with secretes instead
