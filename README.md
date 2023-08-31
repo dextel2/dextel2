@@ -10,7 +10,7 @@
 - 💬 Ask me about anything [here](https://github.com/dextel2/dextel2/issues)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=dextel2.dextel2)
+
 
 ### Languages and Tools: 
 
