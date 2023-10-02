@@ -5,7 +5,7 @@
 
 - 💼 Software Engineer at [Imriel](https://imriel.com/)
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing TypeScript (and JavaScript), and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/dextel2/dextel2/issues)
 
