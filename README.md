@@ -1,4 +1,4 @@
-# Hi there, I'm [Yash!](https://dextel2.surge.sh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm [Yash Karanke!](https://dextel2.surge.sh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 **About me**
