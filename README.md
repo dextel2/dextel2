@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/dextel2/dextel2/issues)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=dextel2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Languages and Tools: 
