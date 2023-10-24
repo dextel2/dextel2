@@ -1,9 +1,9 @@
-# Hey there, I'm [Yash Karanke!](https://dextel2.surge.sh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm Yash Karanke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 **About me**
 
-- 💼 Software Engineer at [Imriel](https://imriel.com/)
+- 💼 Software Engineer at [Imriel](https://imriel.com/) [![Peerlist](https://github-readme-badge.peerlist.io/api/karankeyash?style=for-the-badge)](https://peerlist.io/karankeyash)
 
 - ❤️ I love writing TypeScript (and JavaScript), and building fun experiments on type-level
 
@@ -20,6 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
                                                                                                                            
 ### ![Yash Github Stats](https://github-readme-stats.vercel.app/api?username=dextel2&theme=radical&show_icons=true&hide_border=true)
