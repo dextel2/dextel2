@@ -50,6 +50,11 @@ JSON         1 hr 45 mins    >------------------------   04.57 %
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Building React with Redux and Redux-Saga in a Monorepo](https://karankeyash.hashnode.dev/building-react-with-redux-and-redux-saga-in-a-monorepo)
+- [Fundamentals of React with Redux: A Comprehensive Guide](https://karankeyash.hashnode.dev/fundamentals-of-react-with-redux-guide)
+- [The Odoo Experience](https://karankeyash.hashnode.dev/the-odoo-experience)
+- [A Developer&#39;s Perspective: GitHub or Bitbucket?](https://karankeyash.hashnode.dev/a-developers-perspective-github-or-bitbucket)
+- [Essential VSCode Extensions for 2024](https://karankeyash.hashnode.dev/essential-vscode-extensions)
 <!-- BLOG-POST-LIST:END -->
 
 
