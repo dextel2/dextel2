@@ -48,6 +48,7 @@ JSON         1 hr 45 mins    >------------------------   04.57 %
 
 <!--END_SECTION:waka-->
 
+Read my latest blogs ✨
 
 <!-- BLOG-POST-LIST:START -->
 - [Building React with Redux and Redux-Saga in a Monorepo](https://karankeyash.hashnode.dev/building-react-with-redux-and-redux-saga-in-a-monorepo)
