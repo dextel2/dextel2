@@ -26,7 +26,7 @@ jobs:
           COMMIT_MESSAGE: The stats are updated, master ⚡! I live to serve!
           TARGET_BRANCH: main 
           COMMITTER_NAME: Yash Karanke 
-          COMMITTER_EMAIL: dex.papa@gmail.com 
+          COMMITTER_EMAIL: ${{ secrets.EMAIL }} 
           AUTHOR_NAME: Yash Karanke 
-          AUTHOR_EMAIL: dex.papa@gmail.com 
+          AUTHOR_EMAIL: ${{ secrets.EMAIL }} 
           # you can populate email-id with secretes instead
