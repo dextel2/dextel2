@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 15 hrs 4 mins
+Total Time: 20 hrs 41 mins
 
-TypeScript   12 hrs 27 mins  >>>>>>>>>>>>>>>>>>>------   77.96 %
-Bicep        1 hr 22 mins    >>-----------------------   08.58 %
-Other        53 mins         >------------------------   05.61 %
+TypeScript   18 hrs 47 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.70 %
+Bicep        1 hr 22 mins    >>-----------------------   06.47 %
+Other        29 mins         >------------------------   02.32 %
 ```
 
 <!--END_SECTION:waka-->
