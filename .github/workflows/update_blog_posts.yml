@@ -1,8 +1,9 @@
 name: Latest blog posts workflow
-on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every hour, on the 0th min
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+# Triggers are disabled by commenting out the 'on' section
+# on:
+#   schedule: # Run workflow automatically
+#     - cron: '0 0 * * *' # Runs every hour, on the 0th min
+#   workflow_dispatch: # Run workflow manually
 permissions:
   contents: write # To write the generated contents to the readme
 
