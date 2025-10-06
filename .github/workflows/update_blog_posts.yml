@@ -16,6 +16,6 @@ jobs:
         with:
           HASHNODE_PUBLICATION_NAME: 'karankeyash.hashnode.dev'
           POST_COUNT: 6
-          FORMAT: 'list'
+          FORMAT: 'card'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
