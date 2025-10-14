@@ -7,6 +7,8 @@
 
 - ❤️ I love writing TypeScript (and JavaScript), and building fun experiments on type-level
 
+- ❤️ I also love to talk about AI Safety and AI in general 🤖
+
 - 💬 Ask me about anything [here](https://github.com/dextel2/dextel2/issues)
 
 
