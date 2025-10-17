@@ -11,6 +11,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/dextel2/dextel2/issues)
 
+[![An image of @karankeyash0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karankeyash0)](https://holopin.io/@karankeyash0)
 
 ### Languages and Tools: 
 
