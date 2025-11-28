@@ -45,12 +45,12 @@ Other        3 hrs 23 mins   >>-----------------------   07.70 %
 ## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
+- [Banish Web Scraping Nightmares: llms.txt, the Dead-Simple Fix Every Coder Needs](https://karankeyash.hashnode.dev/banish-web-scraping-nightmares-llmstxt-the-dead-simple-fix-every-coder-needs)
 - [The Only 5 Jobs Left in 2030? Dr. Roman Yampolskiy on AI, Safety, Extinction, and the Future of Work](https://karankeyash.hashnode.dev/5-jobs-left-2030-ai-safety-dr-roman-yampolskiy)
 - [AI Safety: Geoffrey Hinton’s Urgent Warnings About the Future of Artificial Intelligence](https://karankeyash.hashnode.dev/ai-safety-geoffrey-hinton-warnings)
 - [Building React with Redux and Redux-Saga in a Monorepo](https://karankeyash.hashnode.dev/building-react-with-redux-and-redux-saga-in-a-monorepo)
 - [Fundamentals of React with Redux: A Comprehensive Guide](https://karankeyash.hashnode.dev/fundamentals-of-react-with-redux-guide)
 - [The Odoo Experience](https://karankeyash.hashnode.dev/the-odoo-experience)
-- [A Developer's Perspective: GitHub or Bitbucket?](https://karankeyash.hashnode.dev/a-developers-perspective-github-or-bitbucket)
 
 <!-- HASHNODE_BLOG:END -->
 
