@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 57 hrs 22 mins
+Total Time: 56 hrs 5 mins
 
-TypeScript   37 hrs 15 mins        >>>>>>>>>>>>>>>>---------   63.67 %
-Markdown     14 hrs 34 mins        >>>>>>-------------------   24.90 %
-JSON         4 hrs 55 mins         >>-----------------------   08.43 %
-Other        1 hr 9 mins           -------------------------   01.98 %
+TypeScript   31 hrs 8 mins         >>>>>>>>>>>>>>-----------   54.38 %
+Markdown     17 hrs 8 mins         >>>>>>>------------------   29.94 %
+JSON         6 hrs 52 mins         >>>----------------------   12.00 %
+Other        1 hr 9 mins           >------------------------   02.03 %
 ```
 
 <!--END_SECTION:waka-->
