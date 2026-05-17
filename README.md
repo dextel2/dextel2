@@ -32,9 +32,8 @@
 ```rust
 Total Time: 35 hrs 18 mins
 
-TypeScript   17 hrs 54 mins        >>>>>>>>>>---------------   38.68 %
-Markdown     11 hrs 59 mins        >>>>>>-------------------   25.90 %
-Other        11 hrs                >>>>>>-------------------   23.76 %
+TypeScript   20 hrs 50 mins        >>>>>>>>>>>--------------   44.67 %
+Other        11 hrs 21 mins        >>>>>>-------------------   24.35 %
 ```
 
 <!--END_SECTION:waka-->
