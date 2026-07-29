@@ -30,8 +30,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
- 
-### Language statistics...
+### Coding this week
 
 <!--START_SECTION:waka-->
 
@@ -45,7 +44,15 @@ Other        6 hrs 12 mins         >>>----------------------   11.32 %
 
 <!--END_SECTION:waka-->
 
+### All-time languages
 
+<!--START_SECTION:wakaall-->
+
+```rust
+<!-- populated by athul/waka-readme (all_time) -->
+```
+
+<!--END_SECTION:wakaall-->
 
 ## My Latest Blog Posts 👇
 
@@ -59,7 +66,5 @@ Other        6 hrs 12 mins         >>>----------------------   11.32 %
 
 <!-- HASHNODE_BLOG:END -->
 
-
-
-### All time Coding Hours                                                                                                                                                 
+### All time Coding Hours
 [![wakatime](https://wakatime.com/badge/user/efc4928d-c420-4b31-a817-99b0e6502a8b.svg)](https://wakatime.com/@efc4928d-c420-4b31-a817-99b0e6502a8b)

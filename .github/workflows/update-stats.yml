@@ -1,32 +1,61 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  update-week:
+    name: WakaReadme last_7_days
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v0.3.1
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: -> 
-          CODE_LANG: rust 
-          SHOW_TIME: true 
-          SHOW_TOTAL: true 
-          SHOW_MASKED_TIME: false 
-          STOP_AT_OTHER: true 
-          ### commit
-          COMMIT_MESSAGE: The stats are updated, master ⚡! I live to serve!
-          TARGET_BRANCH: main 
-          COMMITTER_NAME: Yash Karanke 
-          COMMITTER_EMAIL: ${{ secrets.EMAIL }} 
-          AUTHOR_NAME: Yash Karanke 
-          AUTHOR_EMAIL: ${{ secrets.EMAIL }} 
-          # you can populate email-id with secretes instead
+          SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          LANG_COUNT: 8
+          STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: JSON YAML TOML
+          BLOCKS: "->"
+          CODE_LANG: rust
+          TARGET_BRANCH: main
+          COMMIT_MESSAGE: "chore(waka): update last_7_days language stats"
+          COMMITTER_NAME: Yash Karanke
+          COMMITTER_EMAIL: ${{ secrets.EMAIL }}
+          AUTHOR_NAME: Yash Karanke
+          AUTHOR_EMAIL: ${{ secrets.EMAIL }}
+
+  update-alltime:
+    name: WakaReadme all_time
+    needs: update-week
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@v0.3.1
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: wakaall
+          TIME_RANGE: all_time
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          LANG_COUNT: 10
+          STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: JSON YAML TOML
+          BLOCKS: "->"
+          CODE_LANG: rust
+          TARGET_BRANCH: main
+          COMMIT_MESSAGE: "chore(waka): update all_time language stats"
+          COMMITTER_NAME: Yash Karanke
+          COMMITTER_EMAIL: ${{ secrets.EMAIL }}
+          AUTHOR_NAME: Yash Karanke
+          AUTHOR_EMAIL: ${{ secrets.EMAIL }}
