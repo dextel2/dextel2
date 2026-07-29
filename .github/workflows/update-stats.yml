@@ -34,7 +34,7 @@ jobs:
           AUTHOR_EMAIL: ${{ secrets.EMAIL }}
 
   update-alltime:
-    name: WakaReadme all_time
+    name: WakaReadme 24h
     needs: update-week
     runs-on: ubuntu-latest
     steps:
@@ -43,7 +43,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: wakaall
-          TIME_RANGE: all_time
+          TIME_RANGE: 24h
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
