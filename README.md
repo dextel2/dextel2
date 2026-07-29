@@ -13,6 +13,12 @@
 
 [![An image of @karankeyash0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karankeyash0)](https://holopin.io/@karankeyash0)
 
+### Currently building
+
+- **[bombay-duck](https://github.com/dextel2/bombay-duck)** — Real-time BSE award announcement watcher that snapshots results to the README and keeps traders in the loop via GitHub Actions.
+- **[scale-sentry-ai](https://github.com/dextel2/scale-sentry-ai)** — AI GitHub Action that analyzes PR diffs for scalability bottlenecks (1K–100K req/s) and suggests concrete optimizations.
+- **[telegram-bot](https://github.com/dextel2/telegram-bot)** — Sample Telegram bot with AI integration.
+
 ### Languages and Tools: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
