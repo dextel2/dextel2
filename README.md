@@ -78,5 +78,8 @@ Markdown   2 mins          >>>----------------------   12.36 %
 
 <!-- HASHNODE_BLOG:END -->
 
-### All time Coding Hours
+### Lifetime coding hours
+
+Total time tracked in WakaTime (all years). Language breakdowns above are **this week** and **today** only — not lifetime mix.
+
 [![wakatime](https://wakatime.com/badge/user/efc4928d-c420-4b31-a817-99b0e6502a8b.svg)](https://wakatime.com/@efc4928d-c420-4b31-a817-99b0e6502a8b)
