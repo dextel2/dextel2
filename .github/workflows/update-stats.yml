@@ -33,29 +33,33 @@ jobs:
           AUTHOR_NAME: Yash Karanke
           AUTHOR_EMAIL: ${{ secrets.EMAIL }}
 
-  update-alltime:
-    name: WakaReadme 24h
+  update-today:
+    name: WakaTime today (24h calendar day)
     needs: update-week
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: athul/waka-readme@v0.3.1
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
+          ref: main
+
+      - name: Render today's language stats
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: wakaall
-          TIME_RANGE: 24h
-          SHOW_TITLE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          LANG_COUNT: 10
-          STOP_AT_OTHER: false
-          IGNORED_LANGUAGES: JSON YAML TOML
-          BLOCKS: "->"
-          CODE_LANG: rust
-          TARGET_BRANCH: main
-          COMMIT_MESSAGE: "chore(waka): update all_time language stats"
-          COMMITTER_NAME: Yash Karanke
-          COMMITTER_EMAIL: ${{ secrets.EMAIL }}
-          AUTHOR_NAME: Yash Karanke
-          AUTHOR_EMAIL: ${{ secrets.EMAIL }}
+          README_PATH: README.md
+        run: python3 .github/scripts/waka-today.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Yash Karanke"
+          git config user.email "${{ secrets.EMAIL }}"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No README changes for today section"
+            exit 0
+          fi
+          git commit -m "chore(waka): update today language stats"
+          git push origin HEAD:main
