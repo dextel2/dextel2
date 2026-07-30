@@ -11,7 +11,9 @@ jobs:
     name: WakaReadme last_7_days
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.1
+      # Pin past v0.3.1: IGNORED_LANGUAGES uses set() (653fcb25). No newer tag yet.
+      # https://github.com/athul/waka-readme/commit/653fcb25e91ba4014433cad6fc3171e87e7c0fd2
+      - uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
