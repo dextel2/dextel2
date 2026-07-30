@@ -51,28 +51,15 @@ JavaScript   51 mins         -------------------------   01.57 %
 
 <!--END_SECTION:waka-->
 
-### All-time languages
+### Coding today
 
-<!--START_SECTION:wakaall-->
+<!--START_SECTION:wakatoday-->
 
 ```rust
-From: 22 July 2026 - To: 29 July 2026
-
-Total Time: 48 hrs 51 mins
-
-Markdown     22 hrs 18 mins  >>>>>>>>>>---------------   40.68 %
-TypeScript   12 hrs 24 mins  >>>>>>-------------------   22.61 %
-Other        5 hrs 58 mins   >>>----------------------   10.90 %
-HTML         3 hrs 30 mins   >>-----------------------   06.41 %
-PHP          2 hrs 14 mins   >------------------------   04.10 %
-Text         1 hr 56 mins    >------------------------   03.55 %
-JSON         1 hr 53 mins    >------------------------   03.45 %
-Bash         1 hr 5 mins     -------------------------   01.99 %
-JavaScript   52 mins         -------------------------   01.60 %
-Docker       43 mins         -------------------------   01.32 %
+<!-- populated by .github/scripts/waka-today.py (calendar day) -->
 ```
 
-<!--END_SECTION:wakaall-->
+<!--END_SECTION:wakatoday-->
 
 ## My Latest Blog Posts 👇
 
