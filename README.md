@@ -35,16 +35,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 July 2026 - To: 06 August 2026
+From: 31 July 2026 - To: 07 August 2026
 
-Total Time: 33 hrs 55 mins
+Total Time: 40 hrs 8 mins
 
-Markdown     24 hrs 54 mins        >>>>>>>>>>>>>>>>---------   63.69 %
-Other        5 hrs 10 mins         >>>----------------------   13.22 %
-TypeScript   1 hr 57 mins          >------------------------   05.01 %
-JavaScript   58 mins               >------------------------   02.49 %
-Text         52 mins               >------------------------   02.25 %
-Terraform    34 mins               -------------------------   01.49 %
+Markdown     26 hrs 44 mins        >>>>>>>>>>>>>>-----------   54.45 %
+Other        8 hrs 58 mins         >>>>>--------------------   18.26 %
+JavaScript   2 hrs 28 mins         >------------------------   05.02 %
+TypeScript   2 hrs 21 mins         >------------------------   04.81 %
+Terraform    2 hrs 8 mins          >------------------------   04.36 %
+Text         52 mins               -------------------------   01.79 %
 ```
 
 <!--END_SECTION:waka-->
